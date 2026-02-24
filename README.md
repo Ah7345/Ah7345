@@ -30,6 +30,33 @@ Includes admin dashboard + campaigns/snippets + CI/CD deployment.
 
 ---
 
+---
+
+## 🛠️ Technologies & Tools
+
+### AI / LLM
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+</p>
+
+### Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,linux,docker,nginx,githubactions" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
 ## 📌 Currently
 - Building production-grade AI workflows and automation systems
 - Expanding real-world LLM use cases (KB-driven chat, state machines, analytics)
