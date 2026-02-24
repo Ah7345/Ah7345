@@ -3,13 +3,13 @@
 AI Engineer | Full-Stack Developer  
 Building production AI automation, LLM-powered apps, and real-world SaaS systems.
 
-📍 Riyadh, Saudi Arabia  
-🌐 Portfolio: https://ahmedrashed-five-beige.vercel.app  
-🔗 LinkedIn: https://www.linkedin.com/in/ahmed-kamel-5891a02b7/
+Riyadh, Saudi Arabia  
+Portfolio: https://ahmedrashed-five-beige.vercel.app  
+LinkedIn: https://www.linkedin.com/in/ahmed-kamel-5891a02b7/
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1) Legal Case Management & AI Assistant (Legal CRM)
 Multi-tenant legal platform to manage cases, sessions, and legal documents with a RAG-powered AI assistant.  
@@ -22,7 +22,7 @@ Includes admin dashboard + campaigns/snippets + CI/CD deployment.
 
 ---
 
-## 🧠 What I work with
+##  What I work with
 - **AI/LLMs:** RAG, Prompting, Agents, OpenAI API, LangChain
 - **Backend:** Python, FastAPI, REST APIs, PostgreSQL, Supabase
 - **Frontend:** Next.js, React, TypeScript, Tailwind
@@ -32,7 +32,7 @@ Includes admin dashboard + campaigns/snippets + CI/CD deployment.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### AI / LLM
 <p>
@@ -57,7 +57,7 @@ Includes admin dashboard + campaigns/snippets + CI/CD deployment.
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-## 📌 Currently
+## Currently
 - Building production-grade AI workflows and automation systems
 - Expanding real-world LLM use cases (KB-driven chat, state machines, analytics)
 
